@@ -1,0 +1,5 @@
+{
+    "phpformatter.logging": true,
+    "phpformatter.composer": true,
+    "intelephense.environment.shortOpenTag": true
+}
